@@ -1,0 +1,12 @@
+{
+    "name": "technica-lead/vendor-php-namespace-primary",
+    "description": "This package serves to register the vendor name `technica-lead` of packages at packagist.org.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert Wąchal",
+            "email": "robert.wachal@technicalead.studio"
+        }
+    ]
+}
